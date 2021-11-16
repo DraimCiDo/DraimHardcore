@@ -1,0 +1,7 @@
+name: DraimHardcore
+version: '${version}'
+main: me.draimgoose.hardcore.DraimHardcore
+api-version: 1.17
+authors: [ DraimGooSe ]
+description: Основной плагин режима Hardcore от проекта DraimCiDo
+website: https://vk.com/draimgoose
